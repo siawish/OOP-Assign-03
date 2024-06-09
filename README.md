@@ -17,7 +17,7 @@ TimeTableGenerator is a Windows Forms application developed with C++ and SQL to 
 ### Steps
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/siawish/TimeTableGenerator.git
+    git clone https://github.com/siawish/Timetables-Management-System-CPP
     ```
 2. **Open the Solution**
     - Open `TimeTableGenerator.sln` in Visual Studio.
